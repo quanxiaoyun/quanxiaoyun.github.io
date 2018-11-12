@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/quanxiaoyun/hello/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a PhD student in Statistics at Cornell University, being co-advised by [Professor Martin Wells](https://stat.cornell.edu/people/faculty/martin-wells) and [Professor James Booth](http://faculty.bscb.cornell.edu/~booth/).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
